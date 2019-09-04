@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Change this to your name, if modifying
-# Username: heggens                     TODO: Change this to your username, if modifying
+# Author: Zy'Shavia Garrett & Shawn Villahermosa
+# Username: garretz & villahermosas
 #
 # Assignment: T02: Exploring Turtles in Python
 # Purpose: Introduces the use of the turtles library
@@ -20,7 +20,7 @@ wn = turtle.Screen()            # creates a graphics window
 my_turtle = turtle.Turtle()     # create a turtle named myturtle
 
 my_turtle.shape('turtle')       # shapes possible are 'arrow', 'turtle', 'circle', 'square', 'triangle', 'classic'
-my_turtle.color('red')
+my_turtle.color('blue')
 
 head = 0                        # initial heading for my_turtle
 pen = 5                         # initial pensize for my_turtle
