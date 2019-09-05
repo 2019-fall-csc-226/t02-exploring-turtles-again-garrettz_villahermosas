@@ -74,6 +74,4 @@ for i in range(100):
     fish.forward(size)
     fish.left(30)
 
-# Hello
-
 wn.exitonclick()
